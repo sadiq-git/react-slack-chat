@@ -1,2 +1,1 @@
-* npm install
-* npm run start
+Live demo "https://sk-chat-slack.firebaseapp.com/"
