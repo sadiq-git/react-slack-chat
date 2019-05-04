@@ -1,5 +1,11 @@
 Live Demo: https://sk-chat-slack.firebaseapp.com/
 
+Features:
+📝 Public and private chat rooms
+📡 Realtime sending and receiving of messages
+📦 Rich media attachments (drag and drop)
+💬 Typing and presence indicators
+
 Available Scripts
 In the project directory, you can run:
 
